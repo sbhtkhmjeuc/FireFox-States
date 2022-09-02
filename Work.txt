@@ -1,0 +1,8 @@
+https://www.paloaltonetworks.com/blog/2021/05/netsec-dns-attacks/
+https://unit42.paloaltonetworks.com/fireeye-solarstorm-sunburst/
+https://unit42.paloaltonetworks.com/fast-flux-101/
+https://start.paloaltonetworks.com/protect-your-dns-traffic-against-threats.html
+https://en.wikipedia.org/wiki/Domain_generation_algorithm
+https://bluecatnetworks.com/blog/among-cyber-attack-techniques-what-is-a-dga/
+https://www.techtarget.com/searchsecurity/definition/domain-generation-algorithm-DGA
+https://en.wikipedia.org/wiki/Fast_flux

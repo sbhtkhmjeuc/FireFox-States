@@ -1,0 +1,13 @@
+https://pomofocus.io/
+https://calendar.google.com/calendar/u/0/r/week
+https://www.amplenote.com/notes/calendar
+https://open.spotify.com/episode/0lmJenV6c0Y55KcFZzRpdA#login
+https://www.notion.so/sbhtkhmjeuc/Courses-1f962cffd3794989b5dacedb96b93245
+https://geth.ethereum.org/docs/rpc/graphql
+https://geth.ethereum.org/docs/getting-started/geth-and-clef
+https://evgemedvedev.medium.com/exporting-and-analyzing-ethereum-blockchain-f5353414a94e
+https://geth.ethereum.org/docs/interface/command-line-options
+https://ethereum.stackexchange.com/questions/28703/full-list-of-geth-terminal-commands
+https://ethereum-etl.readthedocs.io/en/latest/exporting-the-blockchain/
+https://www.youtube.com/watch?v=M576WGiDBdQ&t=14628s
+https://github.com/eth-brownie/brownie
